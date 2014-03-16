@@ -1,0 +1,14 @@
+* {
+  background-color: black;
+}
+
+p {
+  color: yellow;
+  font-style: italic;
+  
+}
+
+#sam {
+  text-align: center;
+  padding: 0 0 30px;
+}
