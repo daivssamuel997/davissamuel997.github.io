@@ -1,0 +1,29 @@
+hover {
+  /*this is a pseudo class. These are examples of pseudo classes.*/
+}
+
+focus {
+  
+}
+
+active {
+  
+}
+
+visited {
+  
+}
+
+/*these are useful on selected elements.*/
+
+/*This should put some text inside a picture.*/
+#image {
+  position: relative; 
+  width: 100%;
+}
+h3 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+
