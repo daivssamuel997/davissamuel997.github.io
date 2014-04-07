@@ -30,7 +30,7 @@ def translate_to_cipher(sentence) #define the method, bring in one argument
      end
     
     return encoded_sentence.join # Returns the encoded sentence as a string.
-end
+end 
 
 
 # Questions:
@@ -82,4 +82,4 @@ p translate_to_cipher("I want cookies")
 
 #Which parts of the challenge did you find tedious?
 
-# Nothing. 
+# Nothing.
