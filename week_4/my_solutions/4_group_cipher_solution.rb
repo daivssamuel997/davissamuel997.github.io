@@ -1,7 +1,7 @@
 # U2.W4: Cipher Challenge
 
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge with Jake Persing. 
 
 
 
@@ -75,7 +75,7 @@ end
 # Your Refactored Solution
 
 
-
+# I wasn't quite sure what to change. This was a lot of new imformation and the fact that we got it working was awesome. I need to spend a lot of time reviewing these methods. Challenge 5 was a good review and the refactored solution made a lot of sense.
 
 
 # Driver Code:
@@ -114,4 +114,4 @@ p north_korean_cipher("ger^wsqifshc*nywx^kix^qi&10000*fekw@sj$gssp%vergl@hsvmxsw
 
 #Which parts of the challenge did you find tedious?
 
-# Nothing. 
+# Nothing.
